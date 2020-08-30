@@ -1,0 +1,6 @@
+Required modules:
+1)Numpy
+2)Pandas
+3)cartopy
+4)matplotlib
+5)requests
